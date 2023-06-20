@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "1dd86e4c0ffce15e",
+    "type": "split",
+    "children": [
+      {
+        "id": "aeec1eef4ebc2605",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "132207e509987405",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2df806cdf1d95bb3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "2acc9f23b957df85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "iOS/doit/02) Hello World 앱 만들며 Xcode에 완벽 적응하기.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51f4314240751dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc0fe0a6bf007034",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9df5d9d8003f3f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "020fc60227b838cc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e37c00cc02b8f070",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "91300eb0facbaf2f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4b5ee594a152064",
+    "type": "split",
+    "children": [
+      {
+        "id": "8037c78c918028d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "187e466630c34611",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "iOS/doit/02) Hello World 앱 만들며 Xcode에 완벽 적응하기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c25cb755651a08a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "iOS/doit/02) Hello World 앱 만들며 Xcode에 완벽 적응하기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "53c9bde65a7bbb8b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fc18110f4e973e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "iOS/doit/02) Hello World 앱 만들며 Xcode에 완벽 적응하기.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "2acc9f23b957df85",
+  "lastOpenFiles": [
+    "iOS/doit/01) 아이폰 앱 개발 준비하기.md",
+    "iOS/doit/02) Hello World 앱 만들며 Xcode에 완벽 적응하기.md",
+    "Developer/Platform/Git/GitHub 규칙.md",
+    "Developer/Platform/Git",
+    "Fasoo/회의록이라고 부르는 것..md",
+    "Fasoo/Project/TTja/TTJA - admob.md",
+    "Side/Gypsophila/Study.md",
+    "무제 파일.canvas",
+    "2023-06-04.md",
+    "Money/2023.md",
+    "Fasoo/일년.md",
+    "Fasoo/한달.md",
+    "Fasoo/오늘.md",
+    "Fasoo/발전.md",
+    "Fasoo/지식/TTja.md",
+    "Fasoo/지식/Fasoo View & View+.md",
+    "Fasoo/Project/Fireside/Fireside v1.4.md",
+    "Fasoo/발전/반성문.md",
+    "Fasoo/발전/MatchText.md",
+    "Fasoo/지식/Wrapsody Mobile.md",
+    "Fasoo/Project/TTja",
+    "Fasoo/지식/Wrapsody.md",
+    "Fasoo/지식/Fireside.md",
+    "Fasoo/Project/Fireside",
+    "Fasoo/Project/Fasoo View&View+",
+    "Fasoo/Project",
+    "Side/Gypsophila",
+    "Side/Cornflower",
+    "Side",
+    "Developer/Language/Dart/기본.md",
+    "Developer/Language/Kotlin/기본.md",
+    "Developer/Language/Swift/기본.md",
+    "Developer/Language/Kotlin",
+    "Developer/Language/Swift",
+    "Developer/Language/Dart.md",
+    "Developer/Platform/무제 파일.md",
+    "Developer/Architecture/MVC.md"
+  ]
+}
