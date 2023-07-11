@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF9BF0092A5D92E400701D39 /* ViewControllerDouble.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF9BF0082A5D92E400701D39 /* ViewControllerDouble.swift */; };
+		BF9BF00B2A5D96DC00701D39 /* ViewControllerDoubleDouble.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF9BF00A2A5D96DC00701D39 /* ViewControllerDoubleDouble.swift */; };
 		BFF5B91D2A41CFF40026F03C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF5B91C2A41CFF40026F03C /* AppDelegate.swift */; };
 		BFF5B91F2A41CFF40026F03C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF5B91E2A41CFF40026F03C /* SceneDelegate.swift */; };
 		BFF5B9212A41CFF40026F03C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF5B9202A41CFF40026F03C /* ViewController.swift */; };
@@ -14,9 +16,12 @@
 		BFF5B9262A41CFF40026F03C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFF5B9252A41CFF40026F03C /* Assets.xcassets */; };
 		BFF5B9292A41CFF40026F03C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFF5B9272A41CFF40026F03C /* LaunchScreen.storyboard */; };
 		BFF5B9352A5A801C0026F03C /* resource in Resources */ = {isa = PBXBuildFile; fileRef = BFF5B9342A5A801C0026F03C /* resource */; };
+		BFF5B9392A5D8E050026F03C /* DragonTabViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF5B9382A5D8E050026F03C /* DragonTabViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BF9BF0082A5D92E400701D39 /* ViewControllerDouble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerDouble.swift; sourceTree = "<group>"; };
+		BF9BF00A2A5D96DC00701D39 /* ViewControllerDoubleDouble.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerDoubleDouble.swift; sourceTree = "<group>"; };
 		BFF5B9192A41CFF40026F03C /* doit-maker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "doit-maker.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFF5B91C2A41CFF40026F03C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFF5B91E2A41CFF40026F03C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -26,6 +31,7 @@
 		BFF5B9282A41CFF40026F03C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BFF5B92A2A41CFF40026F03C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BFF5B9342A5A801C0026F03C /* resource */ = {isa = PBXFileReference; lastKnownFileType = folder; path = resource; sourceTree = "<group>"; };
+		BFF5B9382A5D8E050026F03C /* DragonTabViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DragonTabViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +48,7 @@
 		BFF5B9102A41CFF40026F03C = {
 			isa = PBXGroup;
 			children = (
+				BF9BF00A2A5D96DC00701D39 /* ViewControllerDoubleDouble.swift */,
 				BFF5B91B2A41CFF40026F03C /* doit-maker */,
 				BFF5B91A2A41CFF40026F03C /* Products */,
 			);
@@ -67,6 +74,7 @@
 				BFF5B9252A41CFF40026F03C /* Assets.xcassets */,
 				BFF5B9272A41CFF40026F03C /* LaunchScreen.storyboard */,
 				BFF5B92A2A41CFF40026F03C /* Info.plist */,
+				BFF5B9382A5D8E050026F03C /* DragonTabViewController.swift */,
 			);
 			path = "doit-maker";
 			sourceTree = "<group>";
@@ -74,6 +82,7 @@
 		BFF5B9332A5A7F900026F03C /* New Group */ = {
 			isa = PBXGroup;
 			children = (
+				BF9BF0082A5D92E400701D39 /* ViewControllerDouble.swift */,
 			);
 			path = "New Group";
 			sourceTree = "<group>";
@@ -151,6 +160,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFF5B9212A41CFF40026F03C /* ViewController.swift in Sources */,
+				BFF5B9392A5D8E050026F03C /* DragonTabViewController.swift in Sources */,
+				BF9BF00B2A5D96DC00701D39 /* ViewControllerDoubleDouble.swift in Sources */,
+				BF9BF0092A5D92E400701D39 /* ViewControllerDouble.swift in Sources */,
 				BFF5B91D2A41CFF40026F03C /* AppDelegate.swift in Sources */,
 				BFF5B91F2A41CFF40026F03C /* SceneDelegate.swift in Sources */,
 			);
